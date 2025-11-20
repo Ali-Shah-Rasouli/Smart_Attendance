@@ -1,5 +1,14 @@
 # Welcome to your Expo app 👋
 
+
+#packages you may need: Installation packages:
+· npx expo install expo-image-picker (allow user to pick an image)
+· npm install @react-native-async-storage/async-storage ( to store and retrieve the image) 
+· npx expo install expo-barcode-scanner
+·  npm install react-native-qrcode-svg
+·  npx expo install react-native-qrcode-svg
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
