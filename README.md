@@ -14,15 +14,15 @@
 
 <p align="center">
   <img src="./screenshots/screen1.jpg" width="250" alt="Screenshot 1"/>
-  <img src="./screenshots/screen2.png" width="250" alt="Screenshot 2"/>
-  <img src="./screenshots/screen3.png" width="250" alt="Screenshot 3"/>
+  <img src="./screenshots/screen2.jpg" width="250" alt="Screenshot 2"/>
+  <img src="./screenshots/screen3.jpg" width="250" alt="Screenshot 3"/>
 </p>
 
 <p align="center">
-  <img src="./screenshots/screen4.png" width="250" alt="Screenshot 4"/>
-  <img src="./screenshots/screen5.png" width="250" alt="Screenshot 5"/>
-  <img src="./screenshots/screen6.png" width="250" alt="Screenshot 6"/>
-  <img src="./screenshots/screen7.png" width="250" alt="Screenshot 7"/>
+  <img src="./screenshots/screen4.jpg" width="250" alt="Screenshot 4"/>
+  <img src="./screenshots/screen5.jpg" width="250" alt="Screenshot 5"/>
+  <img src="./screenshots/screen6.jpg" width="250" alt="Screenshot 6"/>
+  <img src="./screenshots/screen7.jpg" width="250" alt="Screenshot 7"/>
 </p>
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
