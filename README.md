@@ -13,7 +13,7 @@
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="./projects/screenshots/screen1.png" width="250" alt="Screenshot 1"/>
+  <img src="screenshots/screen1.png" width="250" alt="Screenshot 1"/>
   <img src="./projects/screenshots/screen2.png" width="250" alt="Screenshot 2"/>
   <img src="./projects/screenshots/screen3.png" width="250" alt="Screenshot 3"/>
 </p>
